@@ -1,0 +1,11 @@
+{
+  "name": "8bitmux",
+  "author": "Muhammad Hashir Ilyas",
+  "pins": [
+    "FIN0","FIN1","FIN2","FIN3","FIN4","FIN5","FIN6","FIN7","SIN0","SIN1","SIN2","SIN3","SIN4","SIN5","SIN6","SIN7",
+    "EN",
+    "OUT0","OUT1","OUT2","OUT3","OUT4","OUT5","OUT6","OUT7"
+  
+  ],
+  "controls": []
+}

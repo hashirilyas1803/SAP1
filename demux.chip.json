@@ -1,0 +1,11 @@
+{
+  "name": "Demux",
+  "author": "Saad Imam",
+  "pins": [
+    "IN0","IN1","IN2","IN3","IN4","IN5","IN6","IN7","IN8","IN9","INA","INB","INC","IND","INE","INF",
+    "FOUT0","FOUT1","FOUT2","FOUT3","FOUT4","FOUT5","FOUT6","FOUT7","FOUT8","FOUT9","FOUTA","FOUTB","FOUTC","FOUTD","FOUTE","FOUTF",
+    "SOUT0","SOUT1","SOUT2","SOUT3","SOUT4","SOUT5","SOUT6","SOUT7","SOUT8","SOUT9","SOUTA","SOUTB","SOUTC","SOUTD","SOUTE","SOUTF"
+    ,"EN", "S"
+  ],
+  "controls": []
+}
